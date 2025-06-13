@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple App</string>
+    <string name="Logo_text">Calculator</string>
+    <string name="hint1">Enter first number</string>
+    <string name="hint2">Enter second number</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="division">Division</string>
+    <string name="multiplication">Multiplication</string>
+</resources>
