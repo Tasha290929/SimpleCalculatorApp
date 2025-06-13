@@ -7,4 +7,9 @@
     <string name="subtraction">Subtraction</string>
     <string name="division">Division</string>
     <string name="multiplication">Multiplication</string>
+    <string name="logo">Text</string>
+    <string name="btm1">Button1</string>
+    <string name="btm2">Button2</string>
+    <string name="btm3">Button3</string>
+
 </resources>
