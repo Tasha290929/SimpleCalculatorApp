@@ -31,6 +31,8 @@ A lightweight Android application that performs basic arithmetic operations: add
 
 ![img_1.png](img_1.png)
 
+![img_2.png](img_2.png)
+
 ## 💬 About the Update
 
 In the latest update, we’ve added the ability to show user feedback via:
